@@ -26,6 +26,7 @@ public class ct230313 {
 				}
 			}
 		}
+		
 		System.out.println(max);
 		System.out.println(x+" "+y);
 	}
