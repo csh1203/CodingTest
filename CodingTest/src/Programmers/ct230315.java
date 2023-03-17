@@ -1,6 +1,6 @@
 package Programmers;
 
-class ct_230315 {
+class ct230315 {
     public int solution(int[] d, int budget) {
     	
         int answer = 0;
